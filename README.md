@@ -12,3 +12,5 @@ Intern id: CT04DG2794
  
 Mentor: NEELA SANTOSH
 
+#output
+[sample_report.pdf](https://github.com/user-attachments/files/21328506/sample_report.pdf)
